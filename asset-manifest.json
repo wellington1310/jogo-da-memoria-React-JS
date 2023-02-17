@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/jogo-da-memoria-React-JS/static/css/main.f33cab29.css",
+    "main.js": "/jogo-da-memoria-React-JS/static/js/main.5b9a086e.js",
+    "static/js/787.1f9ac6fe.chunk.js": "/jogo-da-memoria-React-JS/static/js/787.1f9ac6fe.chunk.js",
+    "static/media/Righteous-Regular.ttf": "/jogo-da-memoria-React-JS/static/media/Righteous-Regular.fd0110471f2228c1808a.ttf",
+    "index.html": "/jogo-da-memoria-React-JS/index.html",
+    "main.f33cab29.css.map": "/jogo-da-memoria-React-JS/static/css/main.f33cab29.css.map",
+    "main.5b9a086e.js.map": "/jogo-da-memoria-React-JS/static/js/main.5b9a086e.js.map",
+    "787.1f9ac6fe.chunk.js.map": "/jogo-da-memoria-React-JS/static/js/787.1f9ac6fe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f33cab29.css",
+    "static/js/main.5b9a086e.js"
+  ]
+}
