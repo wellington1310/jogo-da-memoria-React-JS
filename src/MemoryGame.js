@@ -35,7 +35,6 @@ function MemoryGame() {
 
   return (
     <div>
-      <h1>foi tudo certo llll</h1>
       <GameBoard handleFlip={handleFlip} cards={cards}></GameBoard>
 
       <GameOver show={gameOver} handleRestart={restart}></GameOver>
