@@ -2,7 +2,7 @@
   "name": "memoria",
   "version": "0.1.0",
   "private": true,
-  "homepage": " https://wellington1310.github.io/jogo-da-memoria-React-JS/",
+  "homepage": "https://jogo-da-memoria-react-js-nine.vercel.app/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
